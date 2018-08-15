@@ -1,0 +1,2 @@
+# utl_simple_three_dimensional_transpose_in_r_and_sas
+Simple three dimensional transpose in R and SAS.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
